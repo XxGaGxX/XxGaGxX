@@ -15,9 +15,7 @@ I'm always eager to learn new things, collaborate on exciting projects, and grow
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XxGaGxX&theme=aura&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=XxGaGxX&theme=aura&hide_border=false" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxGaGxX&theme=aura&hide_border=false&layout=compact" />
 </div>
 
@@ -27,7 +25,6 @@ I'm always eager to learn new things, collaborate on exciting projects, and grow
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue" />
@@ -40,9 +37,6 @@ I'm always eager to learn new things, collaborate on exciting projects, and grow
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="Markdown" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
 </div>
 
 ---
@@ -55,4 +49,4 @@ I'm always eager to learn new things, collaborate on exciting projects, and grow
 
 ---
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/dc/34/20/dc3420590d6b4deb070b03eb46bb0558.gif" alt="Coding GIF" />
+

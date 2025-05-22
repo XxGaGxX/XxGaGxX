@@ -2,12 +2,9 @@
 I'm a motivated and curious developer currently studying at I.T.T. Blaise Pascal in Cesena 📚. I have a strong passion for technology and software development, especially in the areas of web development, blockchain, and artificial intelligence 💻🧠.<br><br>Over time, I’ve worked on several projects that allowed me to apply my skills in real-world scenarios, always aiming to build efficient and user-focused solutions ⚙️🌐.<br><br>Starting next academic year, I will continue my studies in Computer Science and Engineering at the University of Bologna 🎓. There, I plan to deepen my understanding of algorithms, programming, and complex system design.<br><br>I'm always eager to learn new things, collaborate on exciting projects, and grow as a developer and problem-solver 🚀.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diego_ilroscio) 
+<img align="right" height="150" src="https://i.pinimg.com/originals/8b/2d/5b/8b2d5bed0861241fddf778681be4ce16.gif"  />
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/dc/34/20/dc3420590d6b4deb070b03eb46bb0558.gif"  />
 
-# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />

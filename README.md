@@ -40,6 +40,7 @@ I'm a motivated and curious developer currently studying at I.T.T. Blaise Pascal
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=XxGaGxX&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=XxGaGxX&theme=aura&hide_border=false)<br/>

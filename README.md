@@ -5,7 +5,7 @@ I'm a motivated and curious developer currently studying at I.T.T. Blaise Pascal
 <img align="right" height="150" src="https://i.pinimg.com/originals/8b/2d/5b/8b2d5bed0861241fddf778681be4ce16.gif"  />
 
 
-<div align="left">
+<div align="left" height="150>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />

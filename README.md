@@ -16,3 +16,4 @@ I'm a motivated and curious developer currently studying at I.T.T. Blaise Pascal
 ![](https://github-profile-trophy.vercel.app/?username=XxGaGxX&theme=aura&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pcqapt30xpqoq039vmpn5tbj1)

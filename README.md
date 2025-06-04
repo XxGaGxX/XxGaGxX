@@ -11,16 +11,12 @@ I'm always eager to learn new things, collaborate on exciting projects, and grow
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XxGaGxX&theme=aura&hide_border=false&include_all_commits=false&count_private=false" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxGaGxX&theme=aura&hide_border=false&layout=compact" />
 </div>
 
 ---
-
-## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -42,8 +38,6 @@ I'm always eager to learn new things, collaborate on exciting projects, and grow
 </div>
 
 ---
-
-## 🎧 Currently Listening
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=pcqapt30xpqoq039vmpn5tbj1" alt="Spotify Now Playing" />

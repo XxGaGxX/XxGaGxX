@@ -12,13 +12,6 @@ I'm always eager to learn new things, collaborate on exciting projects, and grow
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XxGaGxX&theme=aura&hide_border=false&include_all_commits=false&count_private=false" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxGaGxX&theme=aura&hide_border=false&layout=compact" />
-</div>
-
----
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -37,11 +30,6 @@ I'm always eager to learn new things, collaborate on exciting projects, and grow
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=pcqapt30xpqoq039vmpn5tbj1" alt="Spotify Now Playing" />
-</div>
 
 ---
 

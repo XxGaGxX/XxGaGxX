@@ -3,7 +3,7 @@
 
 I'm <u>Diego</u>, a CS student from Italy.
 
-In these years i've learnt some tools and languages and refine my problem solving skill.
+In these years I've been learning some tools and languages and refine my problem solving skill.
 
 My main tools are :
 

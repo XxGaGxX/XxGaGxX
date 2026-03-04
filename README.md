@@ -3,7 +3,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="40%" align="center">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTMzMHo5bmN3dmt5dG5wN3RheHEwN3ZhNm11YzkybHh0YWc1MXpwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3JABk3tJHMBrOqV7fn/giphy.gif" width="280px" alt="Coding gif"/>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW54ZndrcHN5bDRsZTg2cmgxODI2aW00dTBuMHI2YjJ3MGppaWRheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/96wrfvjuXCGKU24EzH/giphy.gif" width="280px" alt="Coding gif"/>
     </td>
     <td width="60%" align="left">
       <h2>Hi, I'm <u>Diego</u> 👋</h2>

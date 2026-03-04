@@ -1,9 +1,9 @@
-<table border="0" width="100%">
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTMzMHo5bmN3dmt5dG5wN3RheHEwN3ZhNm11YzkybHh0YWc1MXpwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3JABk3tJHMBrOqV7fn/giphy.gif" width="200px" />
+<table style="border: none; border-collapse: collapse; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td width="40%" align="center" style="border: none;">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTMzMHo5bmN3dmt5dG5wN3RheHEwN3ZhNm11YzkybHh0YWc1MXpwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3JABk3tJHMBrOqV7fn/giphy.gif" width="300px" />
     </td>
-    <td width="70%">
+    <td width="60%" style="border: none;">
       I'm <u>Diego</u>, a CS student from Italy.<br><br>
       In these years I've been learning some tools and languages, while refining my problem solving skill.
     </td>
@@ -22,12 +22,12 @@ I have some pinned projects like my high school final project "[Block Vision](ht
 
 ---
 
-<table border="0" width="100%">
-  <tr align="center">
-    <td width="50%">
+<table style="border: none; border-collapse: collapse; background: transparent;" width="100%">
+  <tr align="center" style="border: none; background: transparent;">
+    <td width="50%" style="border: none;">
       <img src="https://raw.githubusercontent.com/XxGaGxX/XxGaGxX/output/snake.svg" alt="Snake animation" />
     </td>
-    <td width="50%">
+    <td width="50%" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=XxGaGxX&show_icons=true&theme=radical&hide_border=true" alt="Diego's GitHub Stats" />
     </td>
   </tr>

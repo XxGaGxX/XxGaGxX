@@ -18,7 +18,7 @@ My main tools are :
 
   <a href="https://skillicons.dev">
 
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,c,cs,bash,react,next,python,latex,ts,vim,git,vite" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,c,cs,bash,react,next,python,latex,ts,vim,git,vite" />
 
   </a>
 

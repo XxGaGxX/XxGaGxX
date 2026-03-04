@@ -16,7 +16,6 @@
 
 </div>
 
----
 
 ## 🛠️ My Main Tools
 
@@ -26,7 +25,6 @@
   </a>
 </p>
 
----
 
 ## 📌 Pinned Projects
 
@@ -35,7 +33,6 @@
 | 🔗 [Block Vision](https://github.com/XxGaGxX/BlockVision) | My high school final project |
 | 🌐 [Portfolio](https://github.com/XxGaGxX/Portfolio) | Personal portfolio — work in progress |
 
----
 
 ## 📊 GitHub Stats
 
@@ -53,8 +50,6 @@
 </table>
 
 </div>
-
----
 
 <div align="center">
 

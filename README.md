@@ -1,6 +1,6 @@
 ### Hi there ⁶🤷⁷
 
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTMzMHo5bmN3dmt5dG5wN3RheHEwN3ZhNm11YzkybHh0YWc1MXpwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3JABk3tJHMBrOqV7fn/giphy.gif"/>
 
 I'm <u>Diego</u>, a CS student from Italy.
 

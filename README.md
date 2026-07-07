@@ -1,44 +1,13 @@
-<div align="center">
+### Hi 🦾
 
-## Diego Vagnini 🇮🇹
+I'm Diego, a CS student based in Italy.
 
-CS student · Italy  
-Building things with code — from web interfaces to low-level systems.  
-Always learning, always shipping.
+I study Computer Science and Engineering at the University of Bologna (UniBo).
 
-</div>
+I'm interested in Quant Trading and Machine Learning, hope to learn much more
 
----
-
-## 🛠️ Stack
-
-`JavaScript` `TypeScript` `React` `Next.js` `Tailwind` `HTML/CSS` `Python` `C` `C#` `Bash` `Git` `Vite` `LaTeX` `Vim`
-
----
-
-## 📌 Projects
-
-| Project | Description |
-|:--------|:------------|
-| [Block Vision](https://github.com/XxGaGxX/BlockVision) | High school final project |
-| [Portfolio](https://github.com/XxGaGxX/Portfolio) | Personal site — work in progress |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/XxGaGxX/XxGaGxX/output/snake.svg" alt="Snake animation" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=XxGaGxX&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
----
-
-<div align="center">
-
-📫 [diego.vagnini6@gmail.com](mailto:diego.vagnini6@gmail.com)
-
-*"Stay hungry, stay foolish, and keep coding." — Steve Jobs*
-
-</div>
+🔭 Currently working on: [meanrev-engine](https://github.com/XxGaGxX/meanrev-engine)
+### Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,python,c,cs,html,css,md,react,nextjs,vue,flutter,mysql,mongo,supabase,firebase,docker,git,obsidian,notion)](https://skillicons.dev)
+### Connect with me
+[![My Skills](https://skillicons.dev/icons?i=github,gmail,twitter,instagram)](https://skillicons.dev)

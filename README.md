@@ -7,6 +7,6 @@ I study Computer Science and Engineering at the University of Bologna (UniBo).
 I'm interested in Quant Trading and Machine Learning, hope to learn much more
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,python,c,cs,html,css,md,react,nextjs,vue,flutter,mysql,supabase,docker,git,java,obsidian,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,c,cs,java,html,css,md,react,nextjs,vue,flutter,mysql,supabase,docker,git,obsidian,notion)](https://skillicons.dev)
 ### Connect with me
 [![My Skills](https://skillicons.dev/icons?i=github,gmail,twitter,instagram)](https://skillicons.dev)
